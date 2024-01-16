@@ -1,1 +1,1 @@
-# learn-in-depth
+# learn-in-depth-embedded-systems
